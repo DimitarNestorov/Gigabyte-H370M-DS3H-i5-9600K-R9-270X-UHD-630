@@ -1,4 +1,4 @@
-# OpenCore Configuration for Asrock H310M-HDV
+# OpenCore Configuration for Gigabyte H370M DS3H
 
 Hardware used:
 
