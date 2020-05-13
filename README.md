@@ -8,11 +8,16 @@
 - [ASUS Radeon R9 270X DirectCU II](https://www.asus.com/bg/Graphics-Cards/R9270XDC2T2GD5/)
 - [XPG GAMMIX S11 Pro PCIe Gen3x4 M.2 2280](https://www.xpg.com/us/feature/596/)
 
+## About This Mac
+
+<p align="center"><img src="screenshots/About%20This%20Mac/Overview.png" width="586" alt="Overview"></p>
+<p align="center"><img src="screenshots/About%20This%20Mac/Displays.png" width="586" alt="Displays"></p>
+
 ## BIOS Settings
 
-![BIOS](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210438.jpg)
-![Peripherals](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210447.jpg)
-![Peripherals -> Super IO Configuration](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210456.jpg)
-![Peripherals -> USB Configuration](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210500.jpg)
-![Peripherals -> SATA and RST Configuration](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210525.jpg)
-![Chipset](https://raw.githubusercontent.com/dimitarnestorov/OpenCore-Gigabyte-H370M-DS3H-i5-9600K-UHD-630/master/BIOS%20Settings/191104210547.jpg)
+![BIOS](screenshots/BIOS%20Settings/BIOS.jpg)
+![Peripherals](screenshots/BIOS%20Settings/Peripherals.jpg)
+![Peripherals -> Super IO Configuration](screenshots/BIOS%20Settings/Peripherals%20->%20Super%20IO%20Configuration.jpg)
+![Peripherals -> USB Configuration](screenshots/BIOS%20Settings/Peripherals%20->%20USB%20Configuration.jpg)
+![Peripherals -> SATA and RST Configuration](screenshots/BIOS%20Settings/Peripherals%20->%20SATA%20and%20RST%20Configuration.jpg)
+![Chipset](screenshots/BIOS%20Settings/Chipset.jpg)
