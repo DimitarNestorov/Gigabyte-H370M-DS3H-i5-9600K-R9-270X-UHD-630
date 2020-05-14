@@ -25,3 +25,14 @@ Current OpenCore version: 0.5.6
 ![Peripherals -> USB Configuration](images/BIOS%20Settings/Peripherals%20->%20USB%20Configuration.jpg)
 ![Peripherals -> SATA and RST Configuration](images/BIOS%20Settings/Peripherals%20->%20SATA%20and%20RST%20Configuration.jpg)
 ![Chipset](images/BIOS%20Settings/Chipset.jpg)
+
+## System Information
+
+<p align="center"><img src="images/System%20Information/Audio.png" width="700" alt="Audio"></p>
+<p align="center"><img src="images/System%20Information/Ethernet%20Cards.png" width="700" alt="Ethernet Cards"></p>
+<p align="center"><img src="images/System%20Information/Display%201.png" width="700" alt="Display 1"></p>
+<p align="center"><img src="images/System%20Information/Display%202.png" width="700" alt="Display 2"></p>
+<p align="center"><img src="images/System%20Information/Memory.png" width="700" alt="Memory"></p>
+<p align="center"><img src="images/System%20Information/NVMExpress.png" width="700" alt="NVMExpress"></p>
+<p align="center"><img src="images/System%20Information/PCI.png" width="700" alt="PCI"></p>
+<p align="center"><img src="images/System%20Information/SATA.png" width="700" alt="SATA"></p>
